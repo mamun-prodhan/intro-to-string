@@ -5,7 +5,7 @@ int main(){
 
     int n;
     scanf("%d", &n);
-    scanf("%s", str);
+    scanf("%s", &str);
 
     int num = 0;
 
